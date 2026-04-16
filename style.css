@@ -90,6 +90,7 @@ a:hover { color: #d97757; text-decoration: underline; }
 .author-avatar {
   text-align: center;
   margin-bottom: 14px;
+  margin-left: -20px;
 }
 
 .author-avatar img {
